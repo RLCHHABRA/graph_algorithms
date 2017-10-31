@@ -1,3 +1,4 @@
+//it's single source sortest path algorithm.
 #include <bits/stdc++.h>
 using namespace std;
 #define MAX 100
