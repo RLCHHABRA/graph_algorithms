@@ -1,1 +1,1 @@
-Implimentation of some impoetant graph algorithms
+Implimentation of some important graph algorithms
