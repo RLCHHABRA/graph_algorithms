@@ -1,3 +1,4 @@
+// It's for minimum spanning tree
 #include <bits/stdc++.h>
 using namespace std;
 #define MAX 100010
