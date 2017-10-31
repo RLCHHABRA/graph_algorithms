@@ -51,4 +51,6 @@ int main()
 	{
 		printf("%d ",d[i]);
 	}
+	
+	return 0;
 }
